@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Loan Data Exploration)
+## by (Will Bartlett)
 
 
 ## Dataset
