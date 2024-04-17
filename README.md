@@ -1,5 +1,5 @@
-# (Loan Data Exploration)
-## by (Will Bartlett)
+# Loan Data Exploration
+## by Will Bartlett
 
 
 ## Dataset
